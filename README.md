@@ -16,8 +16,7 @@ print(df.isna().sum())
 
 ## Data Cleaning
 
-
-# Removing columns that contain irrelevant data
+ Removing columns that contain irrelevant data
 df = df.drop(columns=['Item_Identifier', 'Item_Weight','Outlet_Establishment_Year'])
 
 print("After removing 3 irrelevant columns, there are now 8523 rows and 9 columns left")
