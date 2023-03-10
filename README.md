@@ -87,10 +87,22 @@ Others
 ## ---Metrics for Linear Regression Model---
 
                -- Train data-- 
- R2: 0.561     MSE: 1300339.29     RMSE:1140.32     MAE:847.25
+ R2: 0.561  
+ 
+ MSE: 1300339.29   
+ 
+ RMSE:1140.32  
+ 
+ MAE:847.25
 
                 --Test data-- 
- R2: 0.566     MSE: 1198492.81     RMSE:1094.75     MAE:805.86
+ R2: 0.566   
+ 
+ MSE: 1198492.81  
+ 
+ RMSE:1094.75  
+ 
+ MAE:805.86
 
 
 ---------------------------------------------
