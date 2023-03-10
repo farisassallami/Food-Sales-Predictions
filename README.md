@@ -14,6 +14,8 @@ Loaded the csv file into colab
 Removed irrelevant columns that dont add any insight to the data.  Removed duplicate rows.  Filled in missing data with most frequent value.  Corrected inconsistencies and spelling errors in the data.
 
 # Part 3
+![histogram](https://user-images.githubusercontent.com/111199631/224218812-cf6aaeea-a789-4c94-8614-d359dbacad95.png)
+
 ## Exploratory Visuals
 
 # Part 4
