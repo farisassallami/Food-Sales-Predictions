@@ -87,10 +87,10 @@ Others
 ## ---Metrics for Linear Regression Model---
 
                -- Train data-- 
- R2: 0.561  MSE: 1300339.29  RMSE:1140.32  MAE:847.25
+ R2: 0.561     MSE: 1300339.29     RMSE:1140.32     MAE:847.25
 
                 --Test data-- 
- R2: 0.566  MSE: 1198492.81  RMSE:1094.75  MAE:805.86
+ R2: 0.566     MSE: 1198492.81     RMSE:1094.75     MAE:805.86
 
 
 ---------------------------------------------
@@ -98,10 +98,10 @@ Others
 ## ---Metrics for Random Forrest Model---
 
                --Train data-- 
- R2: 0.611  MSE: 1152591.90  RMSE:1073.58  MAE:755.37
+ R2: 0.611     MSE: 1152591.90     RMSE:1073.58     MAE:755.37
 
                --Test data-- 
- R2: 0.603  MSE: 1096246.03  RMSE:1047.01  MAE:728.38
+ R2: 0.603     MSE: 1096246.03     RMSE:1047.01     MAE:728.38
  
 -For the linear regression model, We can see that Test data has a slightly higher R-squared while Train data has a slightly higher RMSE
 
