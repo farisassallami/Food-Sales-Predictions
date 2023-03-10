@@ -17,7 +17,7 @@ Removed irrelevant columns that dont add any insight to the data.  Removed dupli
 ## Exploratory Visuals
 
 
- Using a histogram to to inspect Item outlet sales
+ -Using a histogram to to inspect Item outlet sales
  
 ![histogram](https://user-images.githubusercontent.com/111199631/224218812-cf6aaeea-a789-4c94-8614-d359dbacad95.png)
 
@@ -25,8 +25,11 @@ Removed irrelevant columns that dont add any insight to the data.  Removed dupli
  item outlet sales were valued below $2,000
  
  
- 
- Boxplot of sales by Item Type
+
+
+
+
+ -Boxplot of sales by Item Type
  
 ![boxplot](https://user-images.githubusercontent.com/111199631/224219151-fc52ed97-530f-4239-9df8-abe3431a64b5.png)
 
@@ -34,7 +37,10 @@ We can inspect that the majority of sales are in the item types that tend to be 
 
 
 
-Correlation Heat map
+
+
+
+-Correlation Heat map
 
 ![heatmap](https://user-images.githubusercontent.com/111199631/224219438-1671d257-eebc-4ea2-b6e9-37f0fe69adf4.png)
 
@@ -51,11 +57,16 @@ Which Outlet type grossed more in sales on average?
 
 We can see that Supermarket Type 3 on average Grossed more sales than all other outlet types. This is because Supermarket Type 3 is a super center sized market where a typical family will one stop shop for all their needs every week.
 
+
+
+
 Does Item MRP affect sales?
 
 ![scatter](https://user-images.githubusercontent.com/111199631/224219839-30e50a76-26ed-426c-9b86-a5dcd3f3f7b7.png)
 
 We can see that there is a positive relationship between sales and Item MRP. As additional unit of resource is added to the item, it increases its marginal value thus increasing in sales revenue.
+
+
 
 
 
@@ -75,6 +86,8 @@ Others
 
 # Part 5
 ## Machine Learning
+
+
 ---Metrics for Linear Regression Model---
 
 --Metrics for Train data-- 
