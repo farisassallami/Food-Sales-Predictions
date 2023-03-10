@@ -134,3 +134,15 @@ Others
 -For the random forrest model, We can see that the Training data had both a higher R-squared and RMSE and the Testing data
 
 Comparing both the models, I will select the Random Forrest Tree model since it has a higher R-squared than the Linear Regression model. Random Forrest models are powerful and include individual decision trees by combining dozens or hundreds of them.
+
+-----------------------------------------------
+
+# Recomendations
+
+Focus on Supermarkets tier 3 since thats where the majority of the sales take place.  Customers prefer to "one-stop shop" at super centers and get all the things they need in one go.
+
+Bulk of Item outlet sales were valued at $2,000 or below, these can be sales from staples and convient goods such as Dairy, Canned goods, Frozen foods, Fresh produce and Snack foods.
+
+Top 3 selling categories all fresh foods.  Produce, Starchy foods, and Seafood.  It would be a great idea to have a fresh seafood boil, or juice bar for the produce as customers trend to more healthier options. 
+
+
