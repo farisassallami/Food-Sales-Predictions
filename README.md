@@ -7,14 +7,11 @@ After exploring food sales data, I created a model that can help the business pr
 
 #  Part 1
 ## Loading Data
--Loaded the csv file into colab
+Loaded the csv file into colab
 
 # Part 2
 ## Data Cleaning
--Removed irrelevant columns that dont add any insight to the data.
--Removed duplicate rows.
--Filled in missing data with most frequent value.
--Corrected inconsistencies and spelling errors in the data.
+Removed irrelevant columns that dont add any insight to the data.  Removed duplicate rows.  Filled in missing data with most frequent value.  Corrected inconsistencies and spelling errors in the data.
 
 # Part 3
 ## Exploratory Visuals
