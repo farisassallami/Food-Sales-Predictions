@@ -25,7 +25,7 @@ Removed irrelevant columns that dont add any insight to the data.  Removed dupli
  item outlet sales were valued below $2,000
  
  
-
+---------------------------------------------
 
 
 
@@ -37,7 +37,7 @@ We can inspect that the majority of sales are in the item types that tend to be 
 
 
 
-
+---------------------------------------------
 
 
 -Correlation Heat map
@@ -57,7 +57,7 @@ Which Outlet type grossed more in sales on average?
 
 We can see that Supermarket Type 3 on average Grossed more sales than all other outlet types. This is because Supermarket Type 3 is a super center sized market where a typical family will one stop shop for all their needs every week.
 
-
+---------------------------------------------
 
 
 Does Item MRP affect sales?
@@ -67,7 +67,7 @@ Does Item MRP affect sales?
 We can see that there is a positive relationship between sales and Item MRP. As additional unit of resource is added to the item, it increases its marginal value thus increasing in sales revenue.
 
 
-
+---------------------------------------------
 
 
 What are the top 3 and bottom 3 selling categories?
