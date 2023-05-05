@@ -2,7 +2,7 @@
 - *Author: Faris Assallami*
 #  Business Problem
 
-After exploring food sales data, I created a model that can help the business predict and improve sales in their supermarkets and grocery stores.  Methods used are Data Visualizations and Machine Learning.
+How can we use Data Visualizations and Machine Learning techniques to analyze food sales data and identify patterns and trends that can help businesses predict and improve sales in their supermarkets and grocery stores, ultimately increasing revenue and customer satisfaction?
 
 
 #  Loading Data
