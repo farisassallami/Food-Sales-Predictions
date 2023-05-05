@@ -26,19 +26,6 @@ Removed irrelevant columns that dont add any insight to the data.  Removed dupli
  
 ---------------------------------------------
 
-
-
- ## Boxplot of sales by Item Type
- 
-![boxplot](https://user-images.githubusercontent.com/111199631/224219151-fc52ed97-530f-4239-9df8-abe3431a64b5.png)
-
-We can inspect that the majority of sales are in the item types that tend to be staples and convient such as Dairy, Canned goods, Frozen foods, Fresh produce and Snack foods.
-
-
-
----------------------------------------------
-
-
 ## Correlation Heat map
 
 ![heatmap](https://user-images.githubusercontent.com/111199631/224219438-1671d257-eebc-4ea2-b6e9-37f0fe69adf4.png)
