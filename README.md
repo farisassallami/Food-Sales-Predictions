@@ -1,5 +1,8 @@
 # Food-Sales-Predictions
 - *Author: Faris Assallami*
+
+![175866422-c6ba097d-fadb-4adc-a77e-9140cd3dd8aa](https://github.com/farisassallami/Food-Sales-Predictions/assets/111199631/ede51e57-0558-4170-b795-3da4d6d41c32)
+
 #  Business Problem
 
 How can we use Data Visualizations and Machine Learning techniques to analyze food sales data and identify patterns and trends that can help businesses predict and improve sales in their supermarkets and grocery stores, ultimately increasing revenue and customer satisfaction?
@@ -41,7 +44,7 @@ We can see there is only a moderate correlation between Item MRP and The Item ou
 
 ![barplot](https://user-images.githubusercontent.com/111199631/224219702-09f01a96-aef0-447d-a6ee-7b131977d6ab.png)
 
-We can see that Supermarket Type 3 on average Grossed more sales than all other outlet types. This is because Supermarket Type 3 is a super center sized market where a typical family will one stop shop for all their needs every week.
+We can see that Supermarket Type 3 on average Grossed more sales than all other outlet types. 
 
 ---------------------------------------------
 
